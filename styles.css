@@ -1,0 +1,35 @@
+.divClass {
+    background-color: mediumaquamarine;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#thirdDiv {
+    height: 500px;
+    width: 500px;
+    background-color: rgb(78, 202, 78);
+    padding: 50px;
+    border: 2px solid rgb(105, 141, 43);
+}
+
+h1 {
+    color: rgb(72, 177, 72);
+}
+
+img {
+    width: 350px;
+}
+#pId{
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+}
+#spanId {
+    font-size: 18px;
+    font-weight: lighter;
+    margin: 20px;
+}
+#empId{
+    font-size: 20px;
+    font-weight: initial;
+}
