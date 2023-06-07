@@ -1,0 +1,39 @@
+table{
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 100%;
+    font-size: arial;
+    text-align: center;
+    font-size: 22px;
+    background-color: rgb(179, 238, 103);
+}
+body{
+    background-color: rgb(108, 153, 57);
+}
+
+.rectangulo{
+    width: 500px;
+    height: 250px;
+    background-color:rgb(179, 238, 103);
+    position:center;
+    margin-left: 425px;
+    margin-top: 150px;
+    align-items: center;
+    border: 2px solid green;
+    border-radius: 15px;
+}
+
+#letras{
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+#nom{
+    padding-block: 5px;
+}
+#a{
+    font-size: 14px;
+}
