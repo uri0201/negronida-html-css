@@ -1,0 +1,44 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+nav a{
+    display: flex;
+    justify-content: center;
+    width: 25%;
+    height: 40px;
+    background-color: bisque;
+    color: gray;
+    text-decoration: honeydew;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
+section{
+    height: calc(100vh - 20px);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#seccion1{
+    background-color: white;
+}
+#seccion2{
+    background-color: whitesmoke;
+}
+#seccion3{
+    background-color: gray;
+    height: calc(30vh - 20px);
+}
